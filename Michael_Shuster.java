@@ -1,7 +1,7 @@
 public class Michael_Shuster{
 	public static void main(String[] args){
 		for(int i=1;i<=10;i++){
-			System.out.println("Michael Shuster");
+			System.out.println("no no");
 		}
 		
 	}
